@@ -1,4 +1,4 @@
-﻿#video
+#video
 id=boat-racers-trailer
 title=Boat Racers Trailer
 author=Kristihack

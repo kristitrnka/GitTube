@@ -1,4 +1,4 @@
-﻿#gittube
+#gittube
 version=1
 name=Official GitTube Catalog
 description=GitHub-powered video catalog for Device Mod Continued.

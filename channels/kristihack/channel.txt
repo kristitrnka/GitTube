@@ -1,4 +1,4 @@
-﻿#channel
+#channel
 id=kristihack
 name=Kristihack
 avatar=avatar.png
