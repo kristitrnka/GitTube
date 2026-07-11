@@ -1,0 +1,5 @@
+﻿#gittube
+version=1
+name=Official GitTube Catalog
+description=GitHub-powered video catalog for Device Mod Continued.
+base=https://raw.githubusercontent.com/kristitrnka/GitTube/main

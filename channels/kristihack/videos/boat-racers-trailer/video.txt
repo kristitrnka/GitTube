@@ -1,0 +1,13 @@
+﻿#video
+id=boat-racers-trailer
+title=Boat Racers Trailer
+author=Kristihack
+duration=00:18
+thumbnail=thumbnail.png
+gif=preview.gif
+sound=
+description=Official Boat Racers trailer for GitTube.
+views=0
+likes=0
+created=2026-07-11
+safe=true
