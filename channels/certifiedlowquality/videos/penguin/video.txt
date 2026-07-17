@@ -1,7 +1,7 @@
 #video
 id=penguin
 title=penguin (very emotional)
-author=Kristihack
+author=Certified Low Quality
 duration=00:28
 thumbnail=thumbnail.png
 gif=preview.gif
