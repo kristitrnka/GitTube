@@ -1,0 +1,7 @@
+#channel
+id=certifiedlowquality
+name=Certified Low Quality
+avatar=avatar.png
+banner=banner.png
+description=Very High Quality Videos!
+subscribers=15

@@ -1,0 +1,13 @@
+#video
+id=penguin
+title=penguin (very emotional)
+author=Kristihack
+duration=00:28
+thumbnail=thumbnail.png
+gif=preview.gif
+sound=audio.ogg
+description=Very nice 
+views=58
+likes=5
+created=2026-07-11
+safe=true
