@@ -1,0 +1,13 @@
+#video
+id=boat-racers-trailer
+title=Music Will Make You Lose Control
+author=Kristihack
+duration=00:07
+thumbnail=thumbnail.png
+gif=preview.gif
+sound=sound.mp3
+description=Dance to the beat!
+views=1
+likes=1
+created=2026-07-17
+safe=true

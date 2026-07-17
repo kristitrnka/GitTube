@@ -4,4 +4,4 @@ name=Kristihack
 avatar=avatar.png
 banner=banner.png
 description=Device Mod Continued, GitWeb Builder, Boat Racers and Minecraft projects.
-subscribers=1
+subscribers=69420
