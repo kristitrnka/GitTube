@@ -1,0 +1,13 @@
+#video
+id=mypc
+title=my pc
+author=Certified Low Quality
+duration=00:23
+thumbnail=thumbnail.png
+gif=preview.gif
+sound=audio.ogg
+description=my pc when playing gta 6
+views=174
+likes=57
+created=2026-07-18
+safe=true
